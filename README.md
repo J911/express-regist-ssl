@@ -24,7 +24,7 @@ ers.createServer(app, ()=>{
     console.log('linked ssl certificate!')
 });
 
-app.listen(80, function () {
+app.listen(80, ()=>{
     console.log('Example app listening on port 80!');
 });
 ```

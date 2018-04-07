@@ -1,6 +1,6 @@
 {
   "name": "express-regist-ssl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module that easily link ssl certificates to express",
   "main": "index.js",
   "scripts": {

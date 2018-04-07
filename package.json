@@ -1,0 +1,24 @@
+{
+  "name": "express-regist-ssl",
+  "version": "1.0.0",
+  "description": "Module that easily link ssl certificates to express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J911/express-regist-ssl.git"
+  },
+  "keywords": [
+    "ssl",
+    "express",
+    "link"
+  ],
+  "author": "Jay <fb.jaemin@gmail.com> (https://github.com/J911)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J911/express-regist-ssl/issues"
+  },
+  "homepage": "https://github.com/J911/express-regist-ssl#readme"
+}

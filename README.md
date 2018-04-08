@@ -16,7 +16,7 @@ const express = require('express');
 const express_regist_ssl = require('express-regist-ssl');
 const ers = new express_regist_ssl('./key.pem', './cert.pem');
 
-var app = express();  
+const app = express();  
 
 //code ..
 
